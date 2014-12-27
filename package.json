@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "node-doubanfm",
+  "version": "0.0.0",
+  "description": "基于 nodw-webkit 实现的豆瓣电台客户端",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qiuxiang/node-doubanfm.git"
+  },
+  "author": "Qiu Xiang <xiang.qiu@qq.com>",
+  "license": "MIT"
+}
