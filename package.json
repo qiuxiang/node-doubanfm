@@ -12,5 +12,11 @@
     "url": "https://github.com/qiuxiang/node-doubanfm.git"
   },
   "author": "Qiu Xiang <xiang.qiu@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "window": {
+    "icon": "icon.png",
+    "toolbar": false,
+    "width": 510,
+    "height": 245
+  }
 }

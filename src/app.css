@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+#album-cover {
+  width: 255px;
+  height: 245px;
+  overflow: hidden;
+}
+#album-cover img {
+  width: 100%;
+}
